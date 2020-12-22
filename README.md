@@ -1,6 +1,6 @@
 ## About
 
-Unity's built in wheel colliders don't give you much control, so I built this vehicle controller with a raycast suspension. This repository contains the complete unity project (confirmed working on version x).
+Unity's built in wheel colliders don't give you much control, so I built this vehicle controller with a raycast suspension. This repository contains the complete unity project (confirmed working on version 2018.1.0f2).
 
 ## License
 
