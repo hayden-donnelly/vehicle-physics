@@ -1,6 +1,6 @@
 ## About
 
-Unity vehicle physics with raycast suspension.
+Unity's built in wheel colliders don't give you much control, so I built this vehicle controller with a raycast suspension.
 
 ## License
 
